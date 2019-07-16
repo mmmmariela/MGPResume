@@ -1,0 +1,44 @@
+{
+    "name": "Mariela Gutiérrez Pastrana",
+    "city": "Mexico City",
+    "telephoneNumber": "55-12-34-56-78",
+    "email": "mariela.gp@globant.com",
+    "birthday": "19-04-1988",
+    "objective": "Be part of a company in which I can develop the necessary strategies to contribute to increase its competitiveness",
+    "education": [
+        {
+            "university": "ESCOM - IPN",
+            "date": "Jun 2006 - Jun 2010"
+        }
+    ],
+    "experience": [
+        {
+            "name": "Globant",
+            "image": "https://i.imgur.com/HwpXDRS.png",
+            "date": "Apr 2019 - Now",
+            "role": "Developer iOS",
+            "descripcion": "Working in banking projects."
+        },
+        {
+            "name": "GoNet",
+            "image": "https://i.imgur.com/psx6uhp.png",
+            "date": "Jul 2016 - Apr 2019",
+            "role": "Developer iOS",
+            "descripcion": "Developer in Multipagos application from Bancomer."
+        },
+        {
+            "name": "Banco Azteca",
+            "image": "https://i.imgur.com/uueOLu1.jpg",
+            "date": "May 2012 - Jul 2016",
+            "role": "Developer iOS",
+            "descripcion": "Developer in printers conection bluetooth module."
+        },
+        {
+            "name": "Icom Systems",
+            "image": "https://i.imgur.com/fuB5qOS.png",
+            "date": "Aug 2010 - May 2012",
+            "role": "Developer iOS",
+            "descripcion": "Developer in many client demos and some internal applications."
+        }
+    ]
+}

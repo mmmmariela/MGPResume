@@ -1,0 +1,51 @@
+{
+    "name": Globant5,
+    "city": "Mexico City"
+    "telephoneNumber": 55-78-00-97-94",
+    "email": "user5@globant.com",
+    "birthday": "04-12-1993"
+    "objective": "Be part of a company in which I can develop the necessary strategies to contribute to increase your competitiveness,
+    
+    education": [
+        {
+            "university": "Universidad Justo Sierra",
+            "date": "Agosto 2018 - Julio 2015",
+        }
+    ],
+    "experience":[
+        {
+            "name": "Planet Media",
+            "image": "planet_media",
+            "date": "Octubre 2015 - Junio 2017",
+            "role": "Developer iOS",
+            "descripcion": "Two applications were made for a bank called bxm, I was from the beginning to the end of the project."
+        },
+        {
+            "name": "PagaTodo",
+            "image": "paga_todo",
+            "date": "Octubre 2017 - Junio 2018",
+            "role": "Developer iOS",
+            "descripcion": "In this bank he participates in the maintenance of different applications such as the mobile banking of this bank and other applications for his clients such as Helados Dolphy, Startbuck and Benetton."
+        },
+        {
+            "name": "HITSS",
+            "image": "hitss",
+            "date": "Marzo 2018 - Diciembre 2018",
+            "role": "Developer iOS",
+            "descripcion": "In this company I participated making applications for your client called Actinver I had the opportunity to be at the beginning and end of this project"
+        },
+        {
+            "name": "Globant",
+            "image": "globant",
+            "date": "Diciembre 2018 - Actually",
+            "role": "Developer iOS",
+            "descripcion": "I am currently developing a facebook application for the globant community."
+        }
+        
+        
+    ]
+    
+    
+    
+}
+

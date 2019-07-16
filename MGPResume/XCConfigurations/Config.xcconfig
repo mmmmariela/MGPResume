@@ -1,0 +1,7 @@
+//MARK: - Configurations for the app
+APPNAME = MyResume
+APPBUNDLE = com.mgp.resume
+APPVERSION = 1.0.0
+
+//MARK: - Main URL
+MAINURL = https:/api.myjson.com/bins/l56hj

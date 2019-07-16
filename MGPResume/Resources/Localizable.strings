@@ -1,0 +1,16 @@
+//MARK: - String for errors
+"failTest" = "Status test: fail!";
+"notConnection" = "No internet connection!";
+"unexpected" = "Unexpected error!";
+"again" = "Repeat";
+
+
+//MARK: - Strings for alerts
+"error" = "Error!";
+"ok" = "OK";
+"tryAgain" =  "Please try again.";
+
+//MARK: - Strings for titles
+"experience" = "Experience";
+"information" = "Information";
+

@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  CV_Miguel_Delgado
+
+  Created by Miguel Angel Delgado Alcantara on 6/26/19.
+  Copyright © 2019 Miguel Angel Delgado Alcantara. All rights reserved.
+*/
+"titulo" = "MI INFORMACIÓN";
+"experience" = "MI EXPERIENCIA";
+"No Internet" = "No tiene internet";
+"Unexpected error" = "Ocurrio algun error Inesperado";
